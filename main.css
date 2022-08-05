@@ -1,10 +1,16 @@
-h1{
-    color:brown;
+h1 {
+    color: brown;
     font-size: large;
     font-style: oblique;
 }
-p{
+
+p {
     color: #f00;
     text-align: right;
 }
 
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
