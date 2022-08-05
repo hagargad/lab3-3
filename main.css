@@ -3,3 +3,7 @@ h1{
     font-size: large;
     font-style: oblique;
 }
+p{
+    color:bisque;
+    text-align: center;
+}
